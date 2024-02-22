@@ -1,0 +1,28 @@
+{
+    "id": "261d70d6-40b6-438d-8625-88ca73484347",
+    "name": "SD Seminar",
+    "publisher": "D.E. Veloper",
+    "brief": "Brief description of the Seminar Module",
+    "description": "Long description of the Seminar Module",
+    "version": "1.0.0.0",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "http://Cronus.com/SeminarModule.htm",
+    "logo": "./Seminar Logo.jpg",
+    "capabilities": [],
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "13.0.0.0",
+    "application": "13.0.0.0",
+    "features": [
+        "TranslationFile"
+    ],
+    "showMyCode": true,
+    "target": "Internal",
+    "idRange": {
+        "from": 123456700,
+        "to": 123456799
+    },
+    "runtime": "2.0"
+}
