@@ -1,28 +1,32 @@
 {
-    "id": "261d70d6-40b6-438d-8625-88ca73484347",
-    "name": "SD Seminar",
-    "publisher": "D.E. Veloper",
-    "brief": "Brief description of the Seminar Module",
-    "description": "Long description of the Seminar Module",
-    "version": "1.0.0.0",
-    "privacyStatement": "",
-    "EULA": "",
-    "help": "",
-    "url": "http://Cronus.com/SeminarModule.htm",
-    "logo": "./Seminar Logo.jpg",
-    "capabilities": [],
-    "dependencies": [],
-    "screenshots": [],
-    "platform": "13.0.0.0",
-    "application": "13.0.0.0",
-    "features": [
-        "TranslationFile"
-    ],
-    "showMyCode": true,
-    "target": "Internal",
-    "idRange": {
-        "from": 123456700,
-        "to": 123456799
-    },
-    "runtime": "2.0"
+  "id": "08698215-03f7-4ef1-8bae-e0765c49e318",
+  "name": "SD Seminar",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
 }
